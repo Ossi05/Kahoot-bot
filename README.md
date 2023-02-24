@@ -1,2 +1,2 @@
 # Kahoot-bot
-Add bot users to kahoot game
+Simple script of how to add bots to kahoot game
